@@ -1,0 +1,63 @@
+[{
+    "high_water_mark": "exclude_fee",
+    "high_water_mark_type": "balance",
+    "process_at": "2018-06-01 00:00:00.000000Z",
+    "proportion": "0.5",
+    "rebate_splits": [{
+      "investor_account_id": "4659ed7e-f1ec-4d54-bccd-e62c72411b5c",
+      "proportion": "0.8"
+    }, {
+      "investor_account_id": "f7658552-fa8c-46d5-92aa-5fe51efd03c9",
+      "proportion": "0.2"
+    }],
+    "start_at": "2018-06-01 00:00:00.000000Z",
+    "trade_type": "above_high_water_mark"
+  },
+  {
+    "amount": 100000,
+    "closed_at": "2018-06-02 00:00:00.000000Z",
+    "investor_account_id": "8e27e02d-2e6f-49e7-a189-ed07c1421684",
+    "process_at": "2018-06-02 00:00:00.000000Z",
+    "transaction_type": "transfer"
+  },
+  {
+    "close_id": "4911560",
+    "close_price": "22.1164",
+    "closed_at": "2018-06-27 11:02:38.000000Z",
+    "commission": 10,
+    "net_profit": 100,
+    "open_id": "4911560",
+    "open_price": "22.136",
+    "opened_at": "2018-06-27 11:00:00.000000Z",
+    "process_at": "2018-06-27 11:00:00.000000Z",
+    "swap": 0,
+    "trading_symbol": {
+      "digits": 5,
+      "minimum_volume": "0.01",
+      "symbol": "USDCZK.spa",
+      "volume": "lots"
+    },
+    "trade_type": "Sell",
+    "volume": "0.13"
+  }, {
+    "close_id": "4911559",
+    "close_price": "22.0837",
+    "closed_at": "2018-06-27 11:02:32.000000Z",
+    "commission": 10,
+    "inserted_at": "2018-07-11 06:03:53.000000",
+    "net_profit": 100,
+    "open_id": "4911559",
+    "open_price": "22.136",
+    "opened_at": "2018-06-27 11:00:00.000000Z",
+    "process_at": "2018-06-27 11:00:00.000000Z",
+    "swap": 0,
+    "trading_symbol": {
+      "digits": 5,
+      "minimum_volume": "0.01",
+      "symbol": "USDCZK.spa",
+      "volume": "lots"
+    },
+    "trade_type": "Sell",
+    "volume": "0.03"
+  }
+]
